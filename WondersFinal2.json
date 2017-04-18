@@ -1,0 +1,151 @@
+{
+	"wonders": [{
+"puesto": 1,
+"nombre": "Chichén Itzá",
+"lugar": "Yucatán, México",
+"longitud": "508*width/1080",
+"latitud": "576*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/1.jpg"
+	}, {
+"puesto": 2,
+"nombre": "Coliseo Romano",
+"lugar": "Roma, Italia",
+"longitud": "968*width/1080",
+"latitud": "466*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/2.jpg"
+	}, {
+"puesto": 3,
+"nombre": "Cristo redentor",
+"lugar": "Rio de Janeiro, Brazil",
+"longitud": "720*width/1080",
+"latitud": "797*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/3.jpg"
+	}, {
+"puesto": 4,
+"nombre": "Muralla China",
+"lugar": "China",
+"longitud": "1369*width/1080",
+"latitud": "463*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/4.jpg"
+	}, {
+"puesto": 5,
+"nombre": "Machu Picchu",
+"lugar": "Cuzco, Perú",
+"longitud": "582*width/1080",
+"latitud": "754*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/5.jpg"
+	}, {
+"puesto": 6,
+"nombre": "Petra",
+"lugar": "Jordania",
+"longitud": "1075*width/1080",
+"latitud": "531*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/6.jpg"
+	}, {
+"puesto": 7,
+"nombre": "Taj Mahal",
+"lugar": "Agra, India",
+"longitud": "1268*width/1080",
+"latitud": "543*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/7.jpg"
+	}, {
+"puesto": 8,
+"nombre": "Piramides Egipcias",
+"lugar": "Gyza, Egipto",
+"longitud": "1052*width/1080",
+"latitud": "533*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/8.jpg"
+	}, {
+"puesto": 9,
+"nombre": "Estatua de la libertad",
+"lugar": "Estados Unidos",
+"longitud": "607*width/1080",
+"latitud": "451*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/9.jpg"
+	}, {
+"puesto": 10,
+"nombre": "Torre Eiffel",
+"lugar": "París, Francia",
+"longitud": "929*width/1080",
+"latitud": "430*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/10.jpg"
+	}, {
+"puesto": 11,
+"nombre": "Stonehenge",
+"lugar": "Wiltshire, Inglaterra",
+"longitud": "909*width/1080",
+"latitud": "417*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/11.jpg"
+	}, {
+"puesto": 12,
+"nombre": "Castillo Neuschwanstein",
+"lugar": "Baviera, Alemania",
+"longitud": "963*width/1080",
+"latitud": "435*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/12.jpg"
+	}, {
+"puesto": 13,
+"nombre": "Mitad del Mundo",
+"lugar": "Pichincha, Ecuador",
+"longitud": "549*width/1080",
+"latitud": "687*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/13.jpg"
+	}, {
+"puesto": 14,
+"nombre": "Torre de Pisa",
+"lugar": "Toscana, Italia",
+"longitud": "960*width/1080",
+"latitud": "460*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/14.jpg"
+	}, {
+"puesto": 15,
+"nombre": "Monte Rushmore",
+"lugar": "Estados Unidos",
+"longitud": "478*width/1080",
+"latitud": "425*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/15.jpg"
+	}, {
+"puesto": 16,
+"nombre": "Alahambra",
+"lugar": "Granada, España",
+"longitud": "904*width/1080",
+"latitud": "496*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/16.jpg"
+	}, {
+"puesto": 17,
+"nombre": "Ciudad Prohibida",
+"lugar": "Pekin, China",
+"longitud": "1420*width/1080",
+"latitud": "455*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/17.jpg"
+	}, {
+"puesto": 18,
+"nombre": "Catedral San Basilio",
+"lugar": "Moscú, Rusia",
+"longitud": "1075*width/1080",
+"latitud": "378*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/18.jpg"
+	}, {
+"puesto": 19,
+"nombre": "Ópera Sidney",
+"lugar": "Sidney, Australia",
+"longitud": "1584*width/1080",
+"latitud": "892*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/19.jpg"
+	}, {
+"puesto": 20,
+"nombre": "Kiyomizu dera",
+"lugar": "Kioto, Japón",
+"longitud": "1518*width/1080",
+"latitud": "468*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/20.jpg"
+	}, {
+"puesto": 21,
+"nombre": "Santa Sofía",
+"lugar": "Estambul, Turquía",
+"longitud": "1039*width/1080",
+"latitud": "475*height/1920",
+"foto": "https://www.openprocessing.org/sketch/421207/files/21.jpg"
+
+	}]
+}
