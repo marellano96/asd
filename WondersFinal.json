@@ -3,8 +3,8 @@
 "puesto": 1,
 "nombre": "Chichén Itzá",
 "lugar": "Yucatán, México",
-"longitud": "508*width/1080",
-"latitud": "576*height/1920",
+"longitud": "(508*width)/1080",
+"latitud": "(576*height)/1920",
 "foto": "https://www.openprocessing.org/sketch/421207/files/1.jpg"
 	}, {
 "puesto": 2,
